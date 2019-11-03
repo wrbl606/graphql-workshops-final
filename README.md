@@ -1,5 +1,7 @@
 # graphql-workshops-final
-Final apps for devmeetings workshops. This is a fully working client-server app who communicates with GraphQL
+Final apps for devmeetings workshops. This is a fully working client-server app who communicates with GraphQL.
+
+I'm using also [ngrox](https://ngrok.com/) for expose strapi api server to internet.
 
 [Materials](https://dfdcpl.gitbook.io/graphql-workshops/)
 
